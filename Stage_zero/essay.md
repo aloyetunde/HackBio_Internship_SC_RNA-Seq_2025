@@ -6,9 +6,9 @@ Team: Glycine
 
 # Author: Alo Yetunde Mary
 
-# GitHub: https://github.com/opemidimejiosatoyinbo
+# GitHub: https://github.com/aloyetunde
 
-# LinkedIn: https://linkedin.com/in/opemidimejiosatoyinbo
+# LinkedIn: https://linkedin.com/in/aloyetunde
 
 """
 
