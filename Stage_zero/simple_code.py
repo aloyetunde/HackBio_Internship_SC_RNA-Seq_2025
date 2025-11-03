@@ -37,14 +37,25 @@ team_glycine_info = [
      "Affiliation": "Cell Biology and Genetics, Bioinformatics", "Favorite Gene": "SHH", "Sequence": "ATGCTGCTGCTGCTGCTGCT"}
 ]
 
-# Print a title for the output
-print("\nHackBio Team Glycine Information:\n")
-
-# Iterate through each team member and print their details
-for member in team_glycine_info:
+# To define a simple function to print member details
+def print_member(member):
+    """Prints formatted details of a team member."""
     print(f"{member['Name']:<15}{member['Slack']:<25}{member['Country']:<12}"
           f"{member['Hobby']:<25}{member['Affiliation']:<60}"
           f"{member['Favorite Gene']:<10}{member['Sequence']}")
 
-# Print total team members (excluding header)
-print(f"\nTotal_team_members: {len(team_glycine_info) - 1}")
+# To print a title 
+print("\nHackBio Team Glycine Information:\n")
+
+# To print header for clarity
+print(f"{'Name':<15}{'Slack Username':<25}{'Country':<12}"
+      f"{'Hobby':<25}{'Affiliation':<60}"
+      f"{'Fav Gene':<10}{'Sequence'}")
+print("-" * 160)
+
+# Loop through team members and print each one
+for member in team_glycine_info:
+    print_member(member)
+
+# To print total team members
+print(f"\nTotal_team_members: {len(team_glycine_info)}")
