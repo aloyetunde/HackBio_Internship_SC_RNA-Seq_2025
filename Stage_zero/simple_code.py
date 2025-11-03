@@ -4,8 +4,8 @@ Team: Glycine
 
 # Task: Write a simple Python script for printing the names, slack username, country, 1 hobby, affiliations of people on your team and the DNA sequence of the genes they love most.
 # Author: Alo Yetunde Mary
-# GitHub: https://github.com/opemidimejiosatoyinbo
-# LinkedIn: https://linkedin.com/in/opemidimejiosatoyinbo
+# GitHub: https://github.com/aloyetunde
+# LinkedIn: https://linkedin.com/in/aloyetunde
 """
 
 # Team information stored in a list of dictionaries
