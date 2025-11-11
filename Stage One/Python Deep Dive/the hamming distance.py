@@ -1,0 +1,9 @@
+##slack username; Maryade
+##twitter handle: Yetunde
+ Handles = ["MaryAde", "Yetunde"]
+for i in range(len(Handles)):
+    for j in range(i + 1, len(Handles)):  # Compare each pair once
+        # Calculate Hamming Distance
+        hamming_distance = sum(1 for a, b in zip(Handles[i], Handles[j]) if a != b)
+
+        print(f"Hamming distance between {Handles[i]} and {Handles[j]}: {hamming_distance}")
