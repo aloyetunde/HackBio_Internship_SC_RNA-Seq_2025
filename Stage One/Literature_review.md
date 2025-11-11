@@ -1,14 +1,12 @@
 # HackBio Internship - Stage 1 Task
 
-# Team: Glycine
+# HackBio Internship – Stage 0  
+**Team:** Glycine  
+**Intern:** Alo Yetunde Mary  
+**GitHub:** [https://github.com/aloyetunde](https://github.com/aloyetunde)  
+**LinkedIn:** [https://linkedin.com/in/aloyetunde](https://linkedin.com/in/aloyetunde)  
 
-# Task: Literature Review.
-
-# Author: Alo Yetunde Mary
-
-# GitHub: https://github.com/opemidimejiosatoyinbo
-
-# LinkedIn: https://linkedin.com/in/opemidimejiosatoyinbo
+---
 
 ### **Single-Cell Genomics: A Stepping Stone for Future Immunology Discoveries (A Review)**
 
